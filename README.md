@@ -8,9 +8,3 @@ abc
 abc
 
 
-...
-  var a = xinChao();
-        document.write("<br>" + a);
-        var b = xinChao("linh");
-        document.write("<br>" + b);
-...
